@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hello <img width="45" src="logos/hello.gif">, I'm Adwaya </h1>
-<h2 align="center"> <img width="105" src="https://content.invisioncic.com/p289038/monthly_2020_05/down-arrow.gif.2334a39d67e5b91259e4cfa75b153941.gif"> </h2>
+<p align="center"> <img width="105" src="https://content.invisioncic.com/p289038/monthly_2020_05/down-arrow.gif.2334a39d67e5b91259e4cfa75b153941.gif"> </p>
 
 
 <p align="center">
