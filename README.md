@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="logos/cka.png" width="80" height="80" />
 </p>
 
-<h3 align="center">A Pantomath 🦾,, Passionate & a wit in Computers👨🏻‍💻, Information📚, Technology📱 and anything Techie⁉️
+<h3 align="center">A Pantomath 🦾, & a wit in Information👨🏻‍💻 📚 , Technology📱 & anything of My Interests⁉️</h3>
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
  <!-- <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" height="40"/> -->
