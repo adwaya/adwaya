@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hello <img width="45" src=logos/hello.gif">, I'm Adwaya </h1>
+<h1 align="center"> Hello <img width="45" src="logos/hello.gif">, I'm Adwaya </h1>
 <p align="center">
   <img src="logos/ace.png" width="80" height="80" />
   <img src="logos/pca.png" width="80" height="80" />
