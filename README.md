@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><img width="45" src=https://static.skaip.org/img/emoticons/180x180/f6fcff/hi.gif">, I'm Adwaya </h1>
+<h1 align="center"> Hello <img width="45" src=logos/hello.gif">, I'm Adwaya </h1>
 <p align="center">
   <img src="logos/ace.png" width="80" height="80" />
   <img src="logos/pca.png" width="80" height="80" />
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" height="30" />
 
 <p align="center">
-   <img src="logos/gogif.gif" alt="dino" />
+   <img src="logos/gogif.gif" width="1200" alt="gogif" />
 </p>
 
 # Reach me
