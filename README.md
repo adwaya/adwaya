@@ -41,6 +41,8 @@ Here are some ideas to get you started:
    <img src="logos/gogif.gif" width="1200" alt="gogif" />
 </p>
 
+![Adwaya PushUps 🏋🏻‍♂️ stats](https://github-readme-stats.vercel.app/api?username=adwaya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 # Reach me
 - 💬 Ask me about **Anything**
 - 👣 Follow Me
