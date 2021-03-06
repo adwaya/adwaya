@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <img src="logos/ace.png" width="80" height="80" />
   <img src="logos/pca.png" width="80" height="80" />
   <img src="logos/cka.png" width="80" height="80" />
+  <img src="logos/cje.png" width="80" height="80" />
 </p>
 
 <h3 align="center">A Pantomath 🦾, & a wit in Information👨🏻‍💻 📚 , Technology📱 & anything of My Interests⁉️</h3>
